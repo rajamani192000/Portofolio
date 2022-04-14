@@ -11,6 +11,10 @@ body {
 html {
   scroll-behavior: smooth;
 }
+.logo {
+  width: 5%;margin-left: -13px;
+}
+
 :root {
   --primary-dark-color: #222831;
   --secondary-color: #393e46;
